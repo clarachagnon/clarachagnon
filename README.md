@@ -4,7 +4,7 @@
 - 🌱 Estudando Java e Python
 - 😌 Hobbie: Quebrar a cabeça com códigos
 - 💙 Paixão por tecnologia
-- ❓ Curiosidade: No frio sentimos mais fome pois nosso organismo gasta mais energia mantendo a temperatura do corpo!❄️🍽️
+
 
 <br>
 <div align="center">
