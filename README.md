@@ -30,7 +30,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarachagnon&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&size_weight=0.5&count_weight=0.5" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=chagnonclara&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
